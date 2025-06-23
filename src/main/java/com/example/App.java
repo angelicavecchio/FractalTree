@@ -42,7 +42,8 @@ public class App extends Application {
 
         Point2D destination = endPoint(origin, rotation, len);
         Line line = new Line(origin.getX(),origin.getY(),destination.getX(),destination.getY());
-       /*  int red = (int) (Math.random()*256);
+       /*  every line will be of a different casual color
+        int red = (int) (Math.random()*256);
         int blue = (int) (Math.random()*256);
         int green = (int) (Math.random()*256);
         line.setStroke(Color.rgb(red, green, blue));*/
