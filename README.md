@@ -25,5 +25,5 @@ The application opens a 500x500 pixel window showing a white fractal tree on a g
 - Each new branch is 67% the length of the previous one.
 - The recursion stops when the branch length is less than 4 pixels.
 
-![image](https://github.com/user-attachments/assets/badffea0-cf7e-4c76-a57a-067ed3125e84)
+![image](https://github.com/user-attachments/assets/6a0c1ffb-ff25-4ab1-a4a8-205b52a95ebd)
 
